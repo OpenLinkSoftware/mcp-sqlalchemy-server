@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/openlinksoftware-mcp-sqlalchemy-server-badge.png)](https://mseep.ai/app/openlinksoftware-mcp-sqlalchemy-server)
+
 ---
 
 # MCP Server ODBC via SQLAlchemy
